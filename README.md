@@ -1,7 +1,7 @@
 ### Hi there, I'm Chaerul Candra Pranygrah 👋
 
 ### and here is my stats
-<p align="center"><img src="https://www.codewars.com/users/Chaerulcp/badges/large"/><br /><br />
+<p align="center"><img src="https://avatars.githubusercontent.com/u/49638538?s=400&u=16984f6d81494c72b974b3be4489848b7b61927f&v=4"/><br /><br />
   <img src="https://github-readme-stats.vercel.app/api?username=Chaerulcp&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chaerulcp&theme=monokai"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaerulcp&layout=compact&theme=monokai&langs_count=12"/><br />

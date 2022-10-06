@@ -1,4 +1,4 @@
-### Hi there, I'm Chaerul Candra Pranygrah 👋
+# Hi there, I'm Chaerul Candra Pranygrah 👋
 
 ## My Statistics
 <p align="center">

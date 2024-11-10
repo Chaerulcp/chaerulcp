@@ -32,7 +32,7 @@
 ## 📈 My GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chaerulcp&theme=monokai" /><br />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Chaerulcp&layout=compact&langs_count=8&theme=monokai"
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Chaerulcp&layout=compact&langs_count=8&theme=monokai" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaerulcp&layout=compact&theme=monokai&langs_count=12" /><br />
 </p>
 

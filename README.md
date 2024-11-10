@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on open-source projects.
 - 🤔 I’m looking for help with advanced React and Node.js.
 - 💬 Ask me about anything tech-related, I'm happy to help!
-- 📫 How to reach me: [indonesianvidios@gmail.com](mailto:indonesianvidios@gmail.com)
+- 📫 How to reach me: [chaerulcp.me@gmail.com](mailto:chaerulcp.me@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love coding and playing video games.
 
@@ -32,7 +32,7 @@
 ## 📈 My GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chaerulcp&theme=monokai" /><br />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Chaerulcp&layout=compact&langs_count=8&theme=monokai" /><br />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Chaerulcp&layout=compact&langs_count=8&theme=monokai"
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaerulcp&layout=compact&theme=monokai&langs_count=12" /><br />
 </p>
 

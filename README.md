@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+I'm+Chaerul+Candra+Pranugrah;Student+Informatika;Universitas+Sulawesi+Barat" alt="Headline" />
 </p></h1>
 
----
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Chaerulcp&color=green" alt="Profile views" />
@@ -10,7 +10,7 @@
 </p>
 
 
----
+
 
 ## 👨‍💻 About Me
 
@@ -22,7 +22,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love coding and playing video games.
 
----
+
 
 ## 💡 Skills & Technologies
 
@@ -53,7 +53,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaerulcp&layout=compact&theme=monokai&langs_count=12" /><br />
 </p>
 
----
+
 
 ## 📫 Connect with Me
 

@@ -36,27 +36,19 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)   
 
----
-
-## 🚀 My Projects
-
-Here are some of my notable projects:
-
--   **Project Name 1**: A brief description of Project 1.
--   **Project Name 2**: A brief description of Project 2.
--   **Project Name 3**: A brief description of Project 3.
-
----
 
 ## 📈 My GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chaerulcp&theme=monokai" /><br />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Chaerulcp&layout=compact&langs_count=8&theme=monokai" />><br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaerulcp&layout=compact&theme=monokai&langs_count=12" /><br />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Chaerulcp&layout=compact&theme=monokai" /><br />
 </p>
 
 ## 📫 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/Chaerulcp"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Chaerulcp"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://www.buymeacoffee.com/chaerulcp"><img src="https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black" /></a>
 </p>

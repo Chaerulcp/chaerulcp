@@ -1,7 +1,15 @@
 
-<div align="center">
+<h1 align="center">Hi there 👋, I'm Chaerul Candra Pranugrah</h1>
+<h3 align="center">A passionate Informatics student and aspiring Full-Stack Developer.</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Chaerulcp&color=green" alt="Profile views" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Chaerulcp&theme=monokai" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+I'm+Chaerul+Candra+Pranugrah;Student+Informatika;Universitas+Sulawesi+Barat" alt="Headline" />
-</div>
+</p>
 
 ## About Me
 
@@ -12,6 +20,8 @@
 - 📫 How to reach me: [chaerulcp.me@gmail.com](mailto:chaerulcp.me@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love coding and playing video games.
+
+---
 
 ## 🛠️ Technologies & Tools
 
@@ -26,8 +36,17 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)   
 
+---
 
+## 🚀 My Projects
 
+Here are some of my notable projects:
+
+-   **Project Name 1**: A brief description of Project 1.
+-   **Project Name 2**: A brief description of Project 2.
+-   **Project Name 3**: A brief description of Project 3.
+
+---
 
 ## 📈 My GitHub Stats
 <p align="center">
@@ -41,18 +60,3 @@
   <a href="https://linkedin.com/in/Chaerulcp"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Chaerulcp"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
-
-<!--
-**Chaerulcp/Chaerulcp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

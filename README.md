@@ -2,14 +2,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+I'm+Chaerul+Candra+Pranugrah;Student+Informatika;Universitas+Sulawesi+Barat" alt="Headline" />
 </p></h1>
 
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Chaerulcp&color=green" alt="Profile views" />
   <img src="https://github-profile-trophy.vercel.app/?username=Chaerulcp&theme=monokai" alt="GitHub Trophies" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+I'm+Chaerul+Candra+Pranugrah;Student+Informatika;Universitas+Sulawesi+Barat" alt="Headline" />
-</p>
 
 ---
 

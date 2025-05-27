@@ -1,5 +1,6 @@
-<h1 align="center">Hi there 👋, I'm Chaerul Candra Pranugrah</h1>
-<h3 align="center">A passionate Informatics student and aspiring Full-Stack Developer.</h3>
+<h1 align="center"><p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+I'm+Chaerul+Candra+Pranugrah;Student+Informatika;Universitas+Sulawesi+Barat" alt="Headline" />
+</p></h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Chaerulcp&color=green" alt="Profile views" />

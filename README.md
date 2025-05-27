@@ -1,11 +1,9 @@
-<h1 align="center">Hi there 👋, I'm Chaerul Candra Pranugrah</h1>
-<h3 align="center">A passionate Informatics student and aspiring Full-Stack Developer.</h3>
-
-<p align="center">
+<h1 align="center"><p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+I'm+Chaerul+Candra+Pranugrah;Student+Informatika;Universitas+Sulawesi+Barat" alt="Headline" />
-</p>
+</p></h1>
 
----
+
+
 
 ## 👨‍💻 About Me
 
@@ -17,7 +15,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love coding and playing video games.
 
----
+
 
 ## 💡 Skills & Technologies
 
@@ -38,17 +36,7 @@
   <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </p>
 
----
 
-## 🚀 My Projects
-
-Here are some of my notable projects:
-
--   **Project Name 1**: A brief description of Project 1.
--   **Project Name 2**: A brief description of Project 2.
--   **Project Name 3**: A brief description of Project 3.
-
----
 
 ## 📈 My GitHub Stats
 
@@ -56,10 +44,9 @@ Here are some of my notable projects:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chaerulcp&theme=monokai" /><br />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Chaerulcp&layout=compact&langs_count=8&theme=monokai" />><br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaerulcp&layout=compact&theme=monokai&langs_count=12" /><br />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Chaerulcp&layout=compact&theme=monokai" /><br />
 </p>
 
----
+
 
 ## 📫 Connect with Me
 

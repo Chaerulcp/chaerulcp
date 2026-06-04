@@ -14,7 +14,6 @@
 
 - 🎓 Informatics Student at **Universitas Sulawesi Barat (Unsulbar)**.
 - 💻 Focusing on **Web Development** with a strong interest in Backend architectures.
-- 🚀 Currently building **SIMAKPI** (Sistem Informasi Manajemen Kerja Praktek Industri).
 - 🐧 Enthusiast of Linux environments and custom terminal workflows.
 - 🤝 Open to collaborating on open-source projects or web-based system developments.
 - 😄 Pronouns: He/Him

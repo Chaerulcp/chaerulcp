@@ -1,56 +1,68 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+I'm+Chaerul+Candra+Pranugrah;Informatics+Student;Universitas+Sulawesi+Barat" alt="Headline" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/Chaerulcp"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:chaerulcp.me@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.buymeacoffee.com/chaerulcp"><img src="https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="BuyMeACoffee" /></a>
-</p>
+![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:0F766E,100:22C55E&text=Chaerul%20Candra%20Pranugrah&fontColor=F8FAFC&fontSize=38&fontAlignY=38&desc=Informatics%20Student%20%E2%80%A2%20Web%20Developer%20%E2%80%A2%20Linux%20Enthusiast&descAlignY=58&animation=fadeIn)
 
----
+### Building reliable web experiences, one thoughtful commit at a time.
 
-## 👨‍💻 About Me
-
-- 🎓 Informatics Student at **Universitas Sulawesi Barat (Unsulbar)**.
-- 💻 Focusing on **Web Development** with a strong interest in Backend architectures.
-- 🐧 Enthusiast of Linux environments and custom terminal workflows.
-- 🤝 Open to collaborating on open-source projects or web-based system developments.
-- 😄 Pronouns: He/Him
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### Backend & Databases
 <p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <a href="https://www.linkedin.com/in/Chaerulcp/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:chaerulcp.me@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.buymeacoffee.com/chaerulcp">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=111827" alt="Buy Me a Coffee" />
+  </a>
 </p>
 
-### Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-</p>
+</div>
 
-### Tools & Environment
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode" />
-</p>
+## About Me
 
----
+I'm an Informatics student at **Universitas Sulawesi Barat** who enjoys turning ideas into useful, maintainable web applications. My main interest is backend development, but I am comfortable working across the stack and shaping a complete product experience.
 
-## 📈 GitHub Activity
+- Currently sharpening my skills in **backend architecture** and **modern web development**
+- Comfortable building with **Laravel, Node.js, React, MySQL, and PostgreSQL**
+- Enjoy working in **Linux environments** and refining efficient developer workflows
+- Open to **open-source collaboration**, internships, and web-based projects
+
+## Tech Stack
 
 <div align="center">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Chaerulcp&layout=compact&langs_count=8&theme=monokai" />><br />
+
+**Languages & Frameworks**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Data & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111827)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 </div>
+
+## GitHub Activity
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Chaerulcp&show_icons=true&hide_border=true&bg_color=0F172A&title_color=2DD4BF&icon_color=22C55E&text_color=CBD5E1&rank_icon=github" alt="Chaerul's GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaerulcp&layout=compact&hide_border=true&bg_color=0F172A&title_color=2DD4BF&text_color=CBD5E1&langs_count=8" alt="Chaerul's most used languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Chaerulcp&label=Profile%20views&color=0F766E&style=flat-square" alt="Profile views" />
+  <br /><br />
+  <em>Great software starts with curiosity and grows through consistency.</em>
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:22C55E,50:0F766E,100:0F172A)

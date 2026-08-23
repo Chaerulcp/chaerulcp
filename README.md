@@ -53,8 +53,9 @@ I'm an Informatics student at **Universitas Sulawesi Barat** who enjoys turning 
 ## GitHub Activity
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Chaerulcp&show_icons=true&hide_border=true&bg_color=0F172A&title_color=2DD4BF&icon_color=22C55E&text_color=CBD5E1&rank_icon=github" alt="Chaerul's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaerulcp&layout=compact&hide_border=true&bg_color=0F172A&title_color=2DD4BF&text_color=CBD5E1&langs_count=8" alt="Chaerul's most used languages" />
+  <a href="https://github.com/Chaerulcp">
+    <img width="680" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chaerulcp&theme=github_dark" alt="Chaerul's GitHub activity overview" />
+  </a>
 </div>
 
 <br />

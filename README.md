@@ -11,8 +11,8 @@
   <a href="mailto:chaerulcp.me@gmail.com">
     <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.buymeacoffee.com/chaerulcp">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=111827" alt="Buy Me a Coffee" />
+  <a href="https://saweria.co/Chaerulcp">
+    <img src="https://img.shields.io/badge/Saweria-Support%20Me-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support me on Saweria" />
   </a>
 </p>
 
